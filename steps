@@ -1,0 +1,36 @@
+To fork the Mediator Jekyll theme into your own GitHub repository and create your professional website, follow these step-by-step instructions:
+Fork the Mediator theme repository
+Go to the Mediator theme repository on GitHub: https://github.com/dirkfabisch/mediator
+Click on the "Fork" button in the top-right corner of the page.
+Select your GitHub account as the destination for the fork.
+Clone your forked repository
+Go to your forked repository on GitHub: https://github.com/yourusername/mediator
+Click on the green "Code" button and copy the URL for your forked repository.
+Open your terminal/command prompt and navigate to the directory where you want to store your website files.
+Run the following command to clone your forked repository:
+git clone https://github.com/yourusername/mediator.git
+Install Jekyll and Bundler
+Ensure you have Ruby installed on your system.
+Install Jekyll and Bundler by running: gem install jekyll bundler
+Install theme dependencies
+Navigate into the cloned repository: cd mediator
+Run bundle install to install the required gems for the theme.
+Run Jekyll locally
+From within the mediator directory, run: bundle exec jekyll serve
+Open your web browser and visit http://localhost:4000 to see the Mediator theme.
+Customize the theme
+Open the _config.yml file and update the site settings like title, description, url, etc.
+Modify the HTML/CSS in the _layouts and _includes directories to change the theme's appearance.
+Add your content by creating new Markdown files in the _posts directory for blog posts, or in the root for pages.
+Commit and push changes
+Use git add . to stage your changes.
+Commit your changes with git commit -m "Initial customizations".
+Push your changes to your forked repository: git push origin main
+Enable GitHub Pages
+Go to your forked repository on GitHub: https://github.com/yourusername/mediator
+Navigate to Settings > Pages.
+Under "Source", select the "main" branch and click "Save".
+View your website
+GitHub will now build your Jekyll site from the contents of your repository.
+Once the build is complete, you can access your website at https://yourusername.github.io/mediator
+By following these steps, you have forked the Mediator Jekyll theme into your own GitHub repository, customized it to your liking, and published your professional website using GitHub Pages.

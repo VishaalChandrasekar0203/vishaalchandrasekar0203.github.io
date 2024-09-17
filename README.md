@@ -1,8 +1,8 @@
 # Vishaal Chandrasekar
 
-## AI Engineer & Data Scientist
+## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
 
-Welcome to my professional portfolio. I'm an AI enthusiast with expertise in machine learning, computer vision, and natural language processing.
+Welcome to my professional portfolio. I'm an AI enthusiast with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
 
 ## About Me
 
@@ -17,8 +17,8 @@ I'm a versatile developer with a Master's in Artificial Intelligence, known for 
 
 ## Featured Projects
 
-### Adversarial AI Defense
-Developed robust control mechanisms for generative AI, focusing on mitigating risks in children's narratives.
+### Controlling Adversarial AI 
+Developing robust security and defence control mechanisms for generative AI, focusing on mitigating risks in children's narratives.
 
 [View Project](https://github.com/VishaalChandrasekar0203/Controlling-Adversary-AI)
 

@@ -1,4 +1,25 @@
 title: Vishaal Chandrasekar
-logo : docx/assets/me.jpg
-description: AI Engineer
+logo: assets/images/profile.jpg
+description: AI Engineer & Data Scientist
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+
+# Social media links
+social:
+  linkedin: vishaalchandrasekar
+  github: vishaalchandrasekar0203
+  email: vishaalchandrasekar0203@gmail.com
+
+# Navigation
+nav:
+  - {name: 'Home', link: '/'}
+  - {name: 'Projects', link: '/projects'}
+  - {name: 'Experience', link: '/experience'}
+  - {name: 'Education', link: '/education'}
+  - {name: 'Publications', link: '/publications'}
+
+# Add custom CSS
+sass:
+  sass_dir: _sass
+  style: compressed

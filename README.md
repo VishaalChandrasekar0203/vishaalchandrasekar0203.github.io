@@ -1,9 +1,9 @@
 # vishaalchandrasekar0203.github.io
 
 ## Projects
-###Adversarial AI 
+### Adversarial AI 
 - Description  : Defending attacks in AI
-- links : https://github.com/VishaalChandrasekar0203/Controlling-Adversary-AI
+- links
 
 # Education 
 - University of Bridgeport

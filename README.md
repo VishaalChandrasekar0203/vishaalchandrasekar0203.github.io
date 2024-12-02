@@ -6,7 +6,9 @@ Welcome to my professional portfolio. I'm an AI enthusiast with expertise in Adv
 
 ## About Me
 
-I'm a versatile developer with a Master's in Artificial Intelligence, known for delivering high-impact outcomes both independently and collaboratively. My experience spans AI infrastructure development, data science, and cutting-edge research in adversarial AI.
+Versatile AI Engineer specializing in Adversarial AI and Data Pedigree/lineage. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python, R, C++, SQL, and various AI/ML frameworks including LangChain, Hugging Face, PyTorch, and OpenCV. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT, I excel in developing AI solutions and deploying machine learning algorithms.
+
+My passion lies in exploring the creative potential of AI, particularly in crafting engaging narratives for children. I am eager to collaborate on forward-thinking AI initiatives and contribute to groundbreaking projects that make a difference. With a strong foundation in AI technologies and a drive to innovate, I am excited to take on new challenges and push the boundaries of what is possible with AI.
 
 ## Skills
 

@@ -2,7 +2,7 @@
 
 ## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
 
-Welcome to my professional portfolio. I'm an AI enthusiast with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
+Welcome to my professional portfolio. I'm an AI/ML Engineer with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
 
 ## About Me
 
@@ -24,12 +24,25 @@ Developing robust security and defence control mechanisms for generative AI, foc
 
 [View Project](https://github.com/VishaalChandrasekar0203/Controlling-Adversary-AI)
 
+### Campaign Financing Predictive Analysis
+Enhanced a Large Language Model (LLM) to implement GPT 3.5 for predictive analysis on Campaign Financing data, achieving a performance rate 10 times greater through the effective generation of synthetic data using diffusion models.
+
+[Learn More](https://github.com/VishaalChandrasekar0203/ChampainFinance_Insights_LLMs)
+
+### Data Pedigree Analysics 
+Tracking Data lineage / Origin
+
+[View Project](https://github.com/VishaalChandrasekar0203/Data_Pedigree_Analysis)
+
+### Auto Job Applier 
+Auto_Jobs_Applier is an automated tool designed to revolutionize the job search and application process. By leveraging the power of automation and artificial intelligence, Auto_Jobs_Applier enables users to apply to a vast number of relevant positions efficiently and in a personalized manner.
+
+[View Project](https://github.com/VishaalChandrasekar0203/Auto-Job-Applier)
+
 ### AI-Powered Business Registration Platform
 Constructed a small-scale generative AI infrastructure for government business registration, serving over 1000 live businesses.
 
-[Learn More](#)
-
-## Recent Publication
+## Publication
 
 **Face Detection and Image Recognition with Python**
 *International Journal of Science and Research (IJSR), Volume 10, Issue 3, March 2021*

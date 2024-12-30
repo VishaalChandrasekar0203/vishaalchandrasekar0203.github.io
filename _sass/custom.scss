@@ -1,0 +1,10 @@
+.site-logo {
+  border-radius: 50%;  // This makes it circular. Adjust as needed.
+  overflow: hidden;
+}
+
+.site-logo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

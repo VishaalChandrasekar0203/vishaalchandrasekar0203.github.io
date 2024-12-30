@@ -56,7 +56,8 @@ Feel free to reach out for collaborations or opportunities:
 - Email: [vishaalchandrasekar0203@gmail.com](mailto:vishaalchandrasekar0203@gmail.com)
 - LinkedIn: [Vishaal Chandrasekar](https://www.linkedin.com/in/vishaalchandrasekar/)
 - Github: [VC](https://github.com/VishaalChandrasekar0203)
-- Location: Hartford, CT
+- Twitter: [Vishaalchandra2](https://x.com/vishaalchandra2)
+- Location: Boston, MA
 
 ---
 

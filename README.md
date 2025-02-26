@@ -4,18 +4,23 @@
 
 Welcome to my professional portfolio. I'm an AI/ML Engineer with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
 
-## About Me
+## Get in Touch
 
-Versatile AI Engineer specializing in Adversarial AI and Data Pedigree/lineage. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python, R, C++, SQL, and various AI/ML frameworks including LangChain, Hugging Face, PyTorch, and OpenCV. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT, I excel in developing AI solutions and deploying machine learning algorithms.
+Feel free to reach out for collaborations or opportunities:
 
-My passion lies in exploring the creative potential of AI, particularly in crafting engaging narratives for children. I am eager to collaborate on forward-thinking AI initiatives and contribute to groundbreaking projects that make a difference. With a strong foundation in AI technologies and a drive to innovate, I am excited to take on new challenges and push the boundaries of what is possible with AI.
+- Email: [vishaalchandrasekar0203@gmail.com](mailto:vishaalchandrasekar0203@gmail.com)
+- LinkedIn: [Vishaal Chandrasekar](https://www.linkedin.com/in/vishaalchandrasekar/)
+- Google Scholar: [Research](https://scholar.google.com/citations?hl=en&user=hdzjmNEAAAAJ)
+- Github: [VC](https://github.com/VishaalChandrasekar0203)
+- Twitter: [Vishaalchandra2](https://x.com/vishaalchandra2)
+- Location: Boston, MA
 
-## Skills
+## Publication
 
-- **Languages:** Python, R, C++, SQL, JavaScript, TypeScript
-- **Frameworks:** LangChain, TensorFlow, PyTorch, OpenCV, Node.js, Angular
-- **Tools:** Git, Oracle Cloud, AWS, Power BI
-- **Specialties:** LLM (LLAMA 2, GPT-3), Transformers, Neural Network Design, ML Algorithms
+**Face Detection and Image Recognition with Python**
+*International Journal of Science and Research (IJSR), Volume 10, Issue 3, March 2021*
+
+[Read Publication](https://www.ijsr.net/archive/v10i3/SR21128195050.pdf)
 
 ## Featured Projects
 
@@ -42,22 +47,18 @@ Auto_Jobs_Applier is an automated tool designed to revolutionize the job search 
 ### AI-Powered Business Registration Platform
 Constructed a small-scale generative AI infrastructure for government business registration, serving over 1000 live businesses.
 
-## Publication
+## About Me
 
-**Face Detection and Image Recognition with Python**
-*International Journal of Science and Research (IJSR), Volume 10, Issue 3, March 2021*
+Versatile AI Engineer specializing in Adversarial AI and Data Pedigree/lineage. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python, R, C++, SQL, and various AI/ML frameworks including LangChain, Hugging Face, PyTorch, and OpenCV. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT, I excel in developing AI solutions and deploying machine learning algorithms.
 
-[Read Publication](https://www.ijsr.net/archive/v10i3/SR21128195050.pdf)
+My passion lies in exploring the creative potential of AI, particularly in crafting engaging narratives for children. I am eager to collaborate on forward-thinking AI initiatives and contribute to groundbreaking projects that make a difference. With a strong foundation in AI technologies and a drive to innovate, I am excited to take on new challenges and push the boundaries of what is possible with AI.
 
-## Get in Touch
+## Skills
 
-Feel free to reach out for collaborations or opportunities:
-
-- Email: [vishaalchandrasekar0203@gmail.com](mailto:vishaalchandrasekar0203@gmail.com)
-- LinkedIn: [Vishaal Chandrasekar](https://www.linkedin.com/in/vishaalchandrasekar/)
-- Github: [VC](https://github.com/VishaalChandrasekar0203)
-- Twitter: [Vishaalchandra2](https://x.com/vishaalchandra2)
-- Location: Boston, MA
+- **Languages:** Python, R, C++, SQL, JavaScript, TypeScript
+- **Frameworks:** LangChain, TensorFlow, PyTorch, OpenCV, Node.js, Angular
+- **Tools:** Git, Oracle Cloud, AWS, Power BI
+- **Specialties:** LLM (LLAMA 2, GPT-3), Transformers, Neural Network Design, ML Algorithms
 
 ---
 

@@ -1,5 +1,6 @@
 # Vishaal Chandrasekar
 
+## AVP - Data Governance
 ## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
 
 Welcome to my professional portfolio. I'm an AI/ML Engineer with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
@@ -31,6 +32,10 @@ Feel free to reach out for collaborations or opportunities:
 Developing robust security and defence control mechanisms for generative AI, focusing on mitigating risks in children's narratives.
 
 [View Project](https://github.com/VishaalChandrasekar0203/Controlling-Adversary-AI)
+
+### LLMs Cache Prefetching
+Cold and warm cache mechanisms, along with prefetching, optimize Large Language Model (LLM) performance. It highlights latency differences and efficient data retrieval for faster, smarter AI responses.
+[View Project](https://github.com/VishaalChandrasekar0203/LLMs-Cache-Prefetching-)
 
 ### Data Pedigree Analysics 
 Tracking Data lineage / Origin

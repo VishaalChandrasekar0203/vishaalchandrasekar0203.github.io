@@ -1,6 +1,5 @@
-# Vishaal Chandrasekar
+# Vishaal Chandrasekar - AVP - Data Governance
 
-## AVP - Data Governance
 ## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
 
 Welcome to my professional portfolio. I'm an AI/ML Engineer with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).

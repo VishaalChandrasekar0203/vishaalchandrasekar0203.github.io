@@ -34,15 +34,17 @@ Developing robust security and defence control mechanisms for generative AI, foc
 
 ### LLMs Cache Prefetching
 Cold and warm cache mechanisms, along with prefetching, optimize Large Language Model (LLM) performance. It highlights latency differences and efficient data retrieval for faster, smarter AI responses.
+
 [View Project](https://github.com/VishaalChandrasekar0203/LLMs-Cache-Prefetching-)
 
 ### Data Pedigree Analysics 
 Tracking Data lineage / Origin
 
-[View Project](https://github.com/VishaalChandrasekar0203/Data_Pedigree_Analysis)
+[Learn More](https://github.com/VishaalChandrasekar0203/Data_Pedigree_Analysis)
 
 ### Fine Tuning a Pre-Trained LLM for Named Entity Recognition
 This project will involve fine-tuning a pre-trained language model (e.g., bert-base-cased) on the CoNLL-2003 dataset for NER. The model will learn to predict entity tags (e.g., PER, ORG, LOC) for each token in the input text.
+
 [View Project](https://github.com/VishaalChandrasekar0203/Fine-Tuning-a-Pre-Trained-LLM-for-Named-Entity-Recognition)
 
 ### Campaign Financing Predictive Analysis

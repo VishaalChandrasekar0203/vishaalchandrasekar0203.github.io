@@ -1,4 +1,4 @@
-# Vishaal Chandrasekar - AVP - Data Governance
+# AVP - Data Governance
 
 ## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
 

@@ -1,8 +1,8 @@
-# AVP - Data Governance
+# AVP - Applied AI 
 
-## AI Engineer / Researcher (Adversarial AI - Security & Ethics)
+## AI Engineer / Researcher ( Trust & Safety )
 
-Welcome to my professional portfolio. I'm an AI/ML Engineer with expertise in Adversarial AI, LLM Infrastructure, and Natural Language Processing(NLP).
+Applied AI Engineer with experience building scalable AI workflows, MLOps and LLM pipelines, data products, and automation systems for decision support in fast-paced environments. Background spans model evaluation, data analysis, safety testing, adversarial research, and cross-functional collaboration across technical teams. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python and various AI/ML frameworks including LangChain, Hugging Face, LLMs, RLHF, MCP. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT.
 
 
 ## Get in Touch
@@ -19,7 +19,7 @@ Feel free to reach out for collaborations or opportunities:
 
 ## Publication
 
-**Face Detection and Image Recognition with Python**
+**Image Entity Recognition with Haar-Casacade Algorithm**
 *International Journal of Science and Research (IJSR), Volume 10, Issue 3, March 2021*
 
 [Read Publication](https://www.ijsr.net/archive/v10i3/SR21128195050.pdf)
@@ -52,25 +52,18 @@ Enhanced a Large Language Model (LLM) to implement GPT 3.5 for predictive analys
 
 [Learn More](https://github.com/VishaalChandrasekar0203/ChampainFinance_Insights_LLMs)
 
-### Auto Job Applier 
-Auto_Jobs_Applier is an automated tool designed to revolutionize the job search and application process. By leveraging the power of automation and artificial intelligence, Auto_Jobs_Applier enables users to apply to a vast number of relevant positions efficiently and in a personalized manner.
-
-[View Project](https://github.com/VishaalChandrasekar0203/Auto-Job-Applier)
-
 
 ## About Me
 
-Versatile AI Engineer specializing in Adversarial AI and Data Pedigree/lineage. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python, R, C++, SQL, and various AI/ML frameworks including LangChain, Hugging Face, PyTorch, and OpenCV. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT, I excel in developing AI solutions and deploying machine learning algorithms.
+Versatile AI Engineer specializing in Responsible AI and Data analysis. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python and various AI/ML frameworks including LangChain, Hugging Face, LLMs, RLHF, MCP. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT.
 
-My passion lies in exploring the creative potential of AI, particularly in crafting engaging narratives for children. I am eager to collaborate on forward-thinking AI initiatives and contribute to groundbreaking projects that make a difference. With a strong foundation in AI technologies and a drive to innovate, I am excited to take on new challenges and push the boundaries of what is possible with AI.
 
 
 ## Skills
 
-- **Languages:** Python, R, C++, SQL, JavaScript, TypeScript
-- **Frameworks:** LangChain, TensorFlow, PyTorch, OpenCV, Node.js, Angular
-- **Tools:** Git, Oracle Cloud, AWS, Power BI
-- **Specialties:** LLM (LLAMA 2, GPT-3), Transformers, Neural Network Design, ML Algorithms
+- **Languages:** Python, CUDA, Rust, Java, Scala, C++, R, SQL
+- **AI & ML:**PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, Transformers, LLMs, RLHF, MCP
+- **Data:** Git, Oracle Cloud, AWS, Power BI, ETL, Spark, Databricks, Kafka, Data Modeling
 
 
 ---

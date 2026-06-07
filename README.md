@@ -1,6 +1,7 @@
-# Applied AI Engineer / Researcher ( Trust & Safety )
+# Applied AI Engineer / Researcher (Trust & Safety)
 
-Applied AI Engineer with experience building scalable AI workflows, MLOps and LLM pipelines, data products, and automation systems for decision support in fast-paced environments. Background spans model evaluation, data analysis, safety testing, adversarial research, and cross-functional collaboration across technical teams. I thrive on tackling complex challenges at the forefront of technology. Skilled in Python and various AI/ML frameworks including LangChain, Hugging Face, LLMs, RLHF, MCP. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT.
+Applied AI Engineer with experience building scalable AI workflows, MLOps and LLM pipelines, data products, and automation systems for decision support in fast-paced environments. Background spans model evaluation, data analysis, safety testing, adversarial research, and cross-functional collaboration across technical teams. 
+I thrive on tackling complex challenges at the forefront of technology. Skilled in Python and various AI/ML frameworks including LangChain, Hugging Face, LLMs, RLHF, MCP. Skilled in working with advanced AI models such as LLAMA, GPT, and BERT.
 
 
 ## Get in Touch
